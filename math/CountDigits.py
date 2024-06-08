@@ -18,3 +18,12 @@ class Solution:
             aux = int(aux / 10)
 
         return count
+
+
+"""
+Abordagem utilizada:
+-> Loopar enquanto o número (n) for maior que zero.
+   Dentro do Loop => Pegar o último digito de n atraves de modulo de 10.
+                     Se esse número dividir n sem deixar restos aumentar o count.
+                     dividir n igual a n dividido por 10 (para retirar o último número)
+"""
