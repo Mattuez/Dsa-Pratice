@@ -1,4 +1,5 @@
 """
+https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 Given two numbers A and B. The task is to find out their LCM and GCD. (MMC, MDC)
 """
 
